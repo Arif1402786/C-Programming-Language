@@ -1,0 +1,2 @@
+name = ASIF , salary = 10000000
+name = ARIF , salary = 500000

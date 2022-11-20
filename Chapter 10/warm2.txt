@@ -1,0 +1,2 @@
+The number in the txt file is 56
+Thanks for using fprintf

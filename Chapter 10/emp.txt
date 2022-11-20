@@ -1,0 +1,3 @@
+name = wnloads\C Language P`)´totes + Code\Chapter 10\" ; if ($?) { gcc practice_set5.c -o practice_set5 } ; if ($?) { .\practice_set5 }, salary =109366634840224260000000000000000.000000
+ name = cd "c:\Users\Asif\Downloads\C Language P`)´totes + Code\Chapter 10\" ; if ($?) { gcc practice_set5.c -o practice_set5 } ; if ($?) { .\practice_set5 }, salary =0.000000
+ 
